@@ -10,3 +10,17 @@ img{
     height: 400;
     width: 600;
 }
+
+form{
+    height: 20px;
+    width: 100px;
+}
+
+#b{
+    background-color: black;
+    color: white;
+}
+
+#b>a{
+    color: white;
+}
