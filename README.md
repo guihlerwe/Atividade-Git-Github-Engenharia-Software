@@ -35,4 +35,4 @@ Para executar o projeto:
 3. baixe a extensão live server no seu computador
 4. clique com o botão direito em cima da página HTML e selecione a opção Open With Live Server
 
-Link para visualizar o projeto:
+Link para visualizar o projeto: https://guihlerwe.github.io/Atividade-Git-Github-Engenharia-Software/
