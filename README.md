@@ -1,6 +1,8 @@
-Esse projeto foi uma atividade do curso de informática na qual tem a materia de engenharia de software. Essa atividade foi feita em grupo com os seguintes integrantes, Gabriella Schimilla Sandner, Guilherme Raimundo e Larissa da Silva Donschen.
+Atividade GithHub - Engenharia de Software. Alunos: Gabriella Schmilla Sandner, Guilherme Raimundo e Larissa da Silva Donschen
 
-Lista de tarefa:
+O presente projeto trata-se de uma atividade de Engenharia de Software, matéria obrigatória no segundo ano do curso Técnico Integrado ao Ensino Médio do Instituto Federal Catarinense. A atividade teve duração de três semanas (duas aulas a cada semana) e foi realizada de em grupo no laboratório de informática do campus. 
+
+Lista de tarefas realizadas ao longo do projeto:
 1. Crie um repositório. ✅
 2. Adicione a outra pessoa da dupla como colaborador do repositório.✅
 3. Clone o repositório para a sua máquina.✅
@@ -26,3 +28,11 @@ alterações.✅
 15. Crie a pull request e a outra pessoa faça a revisão.✅
 16. Após o merge da alteração da cor do botão, desfaça o commit que alterou o botão para vermelho.✅
 17. Utilize o Github Pages para hospedagem a página HTML que você criou.✅
+
+Para executar o projeto:
+1. clone o repositório para GithHub Desktop
+2. abra o repositório com o VS Code
+3. baixe a extensão live server no seu computador
+4. clique com o botão direito em cima da página HTML e selecione a opção Open With Live Server
+
+Link para visualizar o projeto:
